@@ -1,0 +1,69 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ayam beruang Dan kelinci</string>
+    <string name="galery">ayam_beruang_dan_kelinci_pedia</string>
+    <string name="tentang">Tentang</string>
+    <string name="ayam">Ras ayam</string>
+    <string name="beruang">Ras beruang</string>
+    <string name="kelinci">Ras kelinci</string>
+    <string name="ayam_list_title">Daftar Ras ayam</string>
+    <string name="beruang_list_title">Daftar Ras beruang</string>
+    <string name="kelinci_list_title">Daftar Ras Kelinci</string>
+    <string name="pilih_gambar">tekan_gambar_untuk_membuka_galeri</string>
+    <string name="jenis_hewan">Jenis Hewan</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+
+
+    <string name="nama">NAMA</string>
+    <string name="nim">NIM</string>
+    <string name="prodi">PRODI</string>
+    <string name="sistem_informasi">SISTEM INFORMASI</string>
+    <string name="asal">ASAL</string>
+    <string name="isi_asal">pancor</string>
+    //Data ayam
+    <string name="gallus_gallus_domesticus_nama">gallus_gallus_domesticus</string>
+    <string name="gallus_gallus_domesticus_asal">indonesia</string>
+    <string name="gallus_gallus_domesticus_deskripsi">ayam peliharaan yang tidak ditangani dengan perkara budidaya massal komersial serta tidak berasal usul dari galur atau ras yang di hasilkan sebagai kepentingan komersial tersebut</string>
+    <string name="ayam_serama_nama">ayam_serama</string>
+    <string name="ayam_serama_asal">malaysia</string>
+    <string name="ayam_serama_deskripsi">"diklaim sebagai ayam terkecil didunia kian mungil ukuran badanya semakin bagus kualitasnya bobot serama tak lebih dari 500 gram"</string>
+    <string name="ayam_bangkok_nama">ayambangkok</string>
+    <string name="ayam_bangkok_asal">Thailand</string>
+    <string name="ayam_bangkok_deskripsi">ayam petarung serta memiliki sifat yang dapat bertarung sampai mati serupa dengan ayam liar yang sanggup bertarung sampai mati sanggup bertarung sampai mati demi mempertahankan daerah kekuasaannya</string>
+    <string name="ayam_betet_nama">ayam betet</string>
+    <string name="ayam_betet_asal">philipina</string>
+    <string name="ayam_betet_deskripsi">ayam ini memiliki gerakan cukup cepat lincah dan gesit dominan menyerang dengan lompat pukul</string>
+
+    //Data Beruang
+    <string name="andes_nama">andes</string>
+    <string name="andes_asal">amerika selatan</string>
+    <string name="andes_deskripsi">beruang andes mereka memang jarang terekspos ,Dwarf mereka satu-satunya  spesies tersisa dari jenis beruang bermoncong pendek</string>
+    <string name="coklat_nama">coklat</string>
+    <string name="coklat_asal">amerika utara</string>
+    <string name="coklat_deskripsi">beruangs coklat seperti beruangs hitam</string>
+    <string name="hitam_nama">hitam</string>
+    <string name="hitam_asal">amerika utara</string>
+    <string name="hitam_deskripsi">adalah meski namanya beruang hitam, sebenarnya warna bulu mereka berpariasi</string>
+    <string name="hitam_asia_nama">hitam_asia</string>
+    <string name="hitam_asia_diskripsi">Adalah mirip dengan beruang hitam amerika, tapi mereka punya beberapa perbedaan misalnya</string>
+
+    //Data Kelinci
+    <string name="netherland_dwarf_nama">netherland_dwarf</string>
+    <string name="netherland_dwarf_asal">Belanda</string>
+    <string name="netherland_dwarf_diskripsi">kelinci yang berasal dari belanda dengan berat 1,1-2,5 pon,Dwarf belanda adalah satu ras kelinci terkecil</string>
+    <string name="orictolagus_cuniculus_nama">orictolagus_cuniculus</string>
+    <string name="orictolagus_cuniculus_asal">eropa</string>
+    <string name="orictolagus_cuniculus_diskripsi">kelinci orictolagus cuniculus juga disebut kelinci eropa atau kelinci domestik adalah satu satunya spesies dalam genusnya</string>
+    <string name="holland_lop_nama">holland_lop</string>
+    <string name="holland_lop_asal">Belanda</string>
+    <string name="holland_lop_diskripsi">kelinci jenis holland lop adalah kelinci yang independent dan playfull</string>
+    <string name="mini_lop_nama">mini_lop</string>
+    <string name="mini_lop_asal">jerman</string>
+    <string name="mini_lop_diskripsi">Adalah jenis kelinci domestik yang di akui oleh american rabbit association</string>
+    <string name="raksasa_nama">raksasa</string>
+    <string name="raksasa_asal">belgia</string>
+    <string name="raksasa_diskripsi">jenis kelinci domestik yang sangat besar,biasanya dianggap sebagai jenis terbesar dari spesiesnya</string>
+    <string name="rex_nama">rex</string>
+    <string name="rex_asal">prancis</string>
+    <string name="rex_diskripsi">kelinci ini mempunyai tubuh yang besar,telinga yang tegak,dan ciri khas yang menjadikan kelinci rex ini di sukai adalah bulunya yang seperti karpet</string>
+    <string name="hitam_asia_asal">selatan asia</string>
+</resources>
